@@ -33,7 +33,7 @@ end
 
 group :test do
   gem 'database_cleaner'
-  gem 'shoulda_matchers'
+  gem 'shoulda-matchers'
   gem 'factory_bot_rails'
   gem 'faker'
 end
